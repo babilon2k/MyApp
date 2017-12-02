@@ -1,3 +1,3 @@
 # MyApp
-Web site example for awesome Apps
+Web site example for awesome Apps. 
 Used Bootstrap
